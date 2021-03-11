@@ -1,0 +1,12 @@
+title: tunacado
+email: contact@tunacado.gg
+description: >-
+  I do software and I play games.
+baseurl: ""
+url: "https://tunacado.gg"
+twitter_username: tunacado
+github_username:  tunacado
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
